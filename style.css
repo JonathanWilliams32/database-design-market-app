@@ -1,0 +1,31 @@
+
+body{
+    padding: 50px;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+.container{
+    max-width:1000px;
+    margin: 0 auto;
+    padding: 50px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.button-group{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 4px;
+}
+
+.form-group{
+    margin-bottom: 30px;
+}
